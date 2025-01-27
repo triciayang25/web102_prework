@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 A video walkthrough of implemented features is in the repository as a .mov file named WEB102 Prework Recording.mov
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='WEB102 Prework Recording.mov' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 <!-- Replace this with whatever GIF tool you used! -->
