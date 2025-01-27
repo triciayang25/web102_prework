@@ -25,9 +25,9 @@ A video walkthrough of implemented features is in the repository as a .mov file 
 
 <img src='WEB102 Prework Recording.mov' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-
+Video captured with QuickTimePlayer
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+<!-- GIF created with ...   -->
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
