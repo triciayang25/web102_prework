@@ -22,7 +22,7 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 A video walkthrough of implemented features:
-<video src='WEB102 Prework Recording.mov' width='' >
+<video src='WEB102 Prework Recording.mov' width='180' >
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
