@@ -47,7 +47,7 @@ function addGamesToPage(games) {
             <img class="game-img" src=${games[gameItem].img} >
             <p>${games[gameItem].description}</p>
             <br>
-            ${games[gameItem].pledged} people donated $${games[gameItem].backers} to make this game possible!
+            ${games[gameItem].pledged.toLocaleString("en-US")} people donated $${games[gameItem].backers} to make this game possible!
         </div>
         `
         

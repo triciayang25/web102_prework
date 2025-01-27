@@ -25,6 +25,9 @@ A video walkthrough of implemented features is in the repository as a .mov file 
 
 <img src='WEB102 Prework Recording.mov' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+You can also view a .mp4 file through this google drive link:
+https://drive.google.com/file/d/1ETunCNdTy_kiNmTMH-hvN-juvj2Bz1u9/view?usp=sharing
+
 Video captured with QuickTimePlayer
 <!-- Replace this with whatever GIF tool you used! -->
 <!-- GIF created with ...   -->
